@@ -28,6 +28,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 ## 📚 What am i learning now:
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 ## 📊 Github Stats:
 
