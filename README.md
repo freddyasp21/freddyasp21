@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there I`m Freddy Santamaria
 
-<!--
-**freddyasp21/freddyasp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=freddyasp21&show_icons=true&theme=onedarkt" />
 
-Here are some ideas to get you started:
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+
+<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
