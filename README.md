@@ -26,5 +26,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## 📚 Github Stats:
 
 
