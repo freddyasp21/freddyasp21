@@ -32,4 +32,5 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 ## 📊 Github Stats:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyasp21&show_icons=true&theme=darkone)
 
