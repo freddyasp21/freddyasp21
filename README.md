@@ -35,12 +35,3 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=freddyasp21&show_icons=true&theme=darkone" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21&layout=compact" />
 
-## 🎓 Certificates:
-
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-- https://www.udemy.com/certificate/UC-b930c72d-f5a3-4a05-b123-6423989a103a/
-- https://www.udemy.com/certificate/UC-78607c37-2ff7-4c1d-9bdc-c4a00199b519/
-- https://www.udemy.com/certificate/UC-6020c4f6-de8d-4b79-84df-eafdf187514c/
-- https://www.udemy.com/certificate/UC-6020c4f6-de8d-4b79-84df-eafdf187514c/
-
