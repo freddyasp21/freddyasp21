@@ -41,4 +41,3 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
