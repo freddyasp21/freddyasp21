@@ -10,11 +10,12 @@ To contact me:
 [![Instagram Badge](https://img.shields.io/badge/-theskullboy_fred-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
 [![Gmail Badge](https://img.shields.io/badge/-freddyperozo21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
 
-## 🌐 I am currently working on:
+## 🌐 I specialize in:
 
-- 💻 I’m currently learning HTML, CSS, SASS, BOOTSTRAP and JAVASCRIPT.
-- 🤖 I’m currently working on layout for full responsive designs
-- 👨‍💻 I’m currently working on creating webpages and learning how to progam.
+- 💻 Layout for landing pages.
+- 🤖 Structures and styles for your blogs.
+- 👨‍💻 Efficient templates for your E-commerce.
+- 🚀 Develop microsites and portfolios
 
 ## ⚡ Technologies that I dominate:
 
