@@ -1,4 +1,4 @@
-<img align='center' src='https://raw.githubusercontent.com/freddyasp21/freddyasp21/63ccbfb1fec74b1e6b0a5112a9603824683642f7/header.png'>
+<img align='center' src='https://github.com/freddyasp21/freddyasp21/blob/main/banner%20(2).png?raw=true'>
 
 I am currently studying Computer Science and I want to specialize as a FrontEnd developer
 
