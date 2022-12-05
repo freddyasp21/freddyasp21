@@ -1,5 +1,7 @@
 <img align='center' src='https://raw.githubusercontent.com/freddyasp21/freddyasp21/777cbcab0952e3d86e8aff1dc767b9af3242e47e/header.png'>
 
+I am a Computer Science student who is fascinated by everything that has to do with the Web, I am currently studying everything necessary to be a complete frontend developer
+
 Connect with me on LinkedIn.
 
 ## 📱 Connect with me:
