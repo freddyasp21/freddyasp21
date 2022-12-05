@@ -38,4 +38,4 @@ To contact me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21&layout=compact)](https://github.com/freddyasp21/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyasp21a&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyasp21&show_icons=true&theme=transparent)
