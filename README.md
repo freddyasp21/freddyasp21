@@ -1,4 +1,4 @@
-<img align='center' src='![image](https://user-images.githubusercontent.com/68209550/205753748-9f7b5efe-c1e6-48c7-81c9-8cc6b31753a2.png)'>
+<img align='center' src='https://raw.githubusercontent.com/freddyasp21/freddyasp21/63ccbfb1fec74b1e6b0a5112a9603824683642f7/header.png'>
 
 I am a Computer Science student who is fascinated by everything that has to do with the Web, I am currently studying everything necessary to be a complete frontend developer
 
