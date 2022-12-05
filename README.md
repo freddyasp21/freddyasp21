@@ -1,6 +1,6 @@
 <img align='center' src='https://github.com/freddyasp21/freddyasp21/blob/main/banner%20(2).png?raw=true'>
 
-I am currently studying Computer Science and I want to specialize as a FrontEnd developer
+Hi, I am currently studying Computer Science and I want to specialize as a FrontEnd developer
 
 To contact me:
 
