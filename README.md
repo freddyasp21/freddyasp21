@@ -1,4 +1,4 @@
-<img align='center' src='https://raw.githubusercontent.com/freddyasp21/freddyasp21/83fe066254b5829b26f6d987c437a35706d618d2/header.png'>
+<img align='center' src='https://raw.githubusercontent.com/freddyasp21/freddyasp21/777cbcab0952e3d86e8aff1dc767b9af3242e47e/header.png'>
 
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
