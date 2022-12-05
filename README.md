@@ -1,5 +1,4 @@
 
-(https://raw.githubusercontent.com/freddyasp21/freddyasp21/83fe066254b5829b26f6d987c437a35706d618d2/header.png)
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
