@@ -1,6 +1,6 @@
 <img align='center' src='https://raw.githubusercontent.com/freddyasp21/freddyasp21/63ccbfb1fec74b1e6b0a5112a9603824683642f7/header.png'>
 
-I am a Computer Science student who is fascinated by everything that has to do with the Web, I am currently studying everything necessary to be a complete frontend developer
+I am currently studying Computer Science and I want to specialize as a FrontEnd developer
 
 To contact me:
 
