@@ -2,7 +2,7 @@
 
 I am a Computer Science student who is fascinated by everything that has to do with the Web, I am currently studying everything necessary to be a complete frontend developer
 
-Connect with me on LinkedIn.
+To contact me:
 
 ## 📱 Connect with me:
 
