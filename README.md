@@ -32,10 +32,10 @@ To contact me:
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-## 📊 Github Stats:
+<!-- ## 📊 Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21&layout=compact)](https://github.com/freddyasp21/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyasp21&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyasp21&show_icons=true&theme=transparent) -->
