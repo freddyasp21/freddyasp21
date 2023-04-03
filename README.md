@@ -2,15 +2,6 @@
 
 Hi, I am currently studying Computer Science and I want to specialize as a FrontEnd developer
 
-To contact me:
-
-## 📱 Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-FreddySantamaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freddy-a-santamaria-p-959546169/)](https://www.linkedin.com/in/freddy-a-santamaria-p-959546169/)
-
-[![Gmail Badge](https://img.shields.io/badge/-freddyperozo21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
-
-
 ## 🌐 I specialize in:
 
 - 💻 Layout for landing pages.
@@ -37,6 +28,16 @@ To contact me:
 
 - ![Illustrato](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
 - ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+
+To contact me:
+
+## 📱 Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-FreddySantamaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freddy-a-santamaria-p-959546169/)](https://www.linkedin.com/in/freddy-a-santamaria-p-959546169/)
+
+[![Gmail Badge](https://img.shields.io/badge/-freddyperozo21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 📊 Github Stats:
 
