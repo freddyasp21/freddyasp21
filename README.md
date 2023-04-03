@@ -32,10 +32,10 @@ To contact me:
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## ⚡ Technology I use to create Web Sites
+## ⚡ Programs I use to make my designs
 
--![Illustrato](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
--![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+- ![Illustrato](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
+- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 
 <!-- ## 📊 Github Stats:
 
