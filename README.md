@@ -17,7 +17,7 @@ To contact me:
 - 👨‍💻 Efficient templates for your E-commerce.
 - 🚀 Develop microsites and portfolios
 
-## ⚡ Technology I use to create the sites
+## ⚡ Technology I use to create Web Sites
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
@@ -32,6 +32,10 @@ To contact me:
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+## ⚡ Technology I use to create Web Sites
+
+-![Illustrato](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
+-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 
 <!-- ## 📊 Github Stats:
 
