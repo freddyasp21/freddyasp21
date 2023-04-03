@@ -38,6 +38,9 @@ To contact me:
 [![Gmail Badge](https://img.shields.io/badge/-freddyperozo21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyasp21&layout=compact)](https://github.com/freddyasp21/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freddyasp21&show_icons=true&theme=transparent)
 
 <!-- ## 📊 Github Stats:
 
