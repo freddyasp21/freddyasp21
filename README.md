@@ -9,6 +9,7 @@ To contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-FreddySantamaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freddy-a-santamaria-p-959546169/)](https://www.linkedin.com/in/freddy-a-santamaria-p-959546169/)
 [![Instagram Badge](https://img.shields.io/badge/-theskullboy_fred-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
 [![Gmail Badge](https://img.shields.io/badge/-freddyperozo21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:mail@jayraj.co.in)
+[!Behance](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=Behance&logoColor=white)
 
 ## 🌐 I specialize in:
 
